@@ -5,18 +5,18 @@ int main(){
     scanf("%d %d %d", &a, &b, &c);
     if(a<b){
         if(a<c){
-        printf("Ram is youngest");
+        printf("Ram is the youngest");
     }
         else{
-        printf("Ajay is youngest");
+        printf("Ajay is the youngest");
         }
     }
     else{
         if(b<c){
-        printf("Shyam is youngest");
+        printf("Shyam is the youngest");
     } 
        else{
-        printf("Ajay is youngest");
+        printf("Ajay is the youngest");
        }
     } 
     return 0;
